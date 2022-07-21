@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "node-cache": "^5.1.2",
+    "ytdl-core": "^4.11.0"
+  }
+}
